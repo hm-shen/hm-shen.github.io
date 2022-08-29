@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 1891 IOE Building, 1205 Beal Ave, Ann Arbor, MI, 48109
 
 profile:
   align: right
