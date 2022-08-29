@@ -20,14 +20,14 @@
       institution: Xi'an Jiaotong University
       year: 2016
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Mathematics and Computer Science, Argonne National Laboratory
-      year: Summer 2021
-      description:
-        - Supervised by Dr. Kibaek Kim
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Research Assistant
+#       institution: Mathematics and Computer Science, Argonne National Laboratory
+#       year: Summer 2021
+#       description:
+#         - Supervised by Dr. Kibaek Kim
 
 - title: Research Projects
   type: time_table
