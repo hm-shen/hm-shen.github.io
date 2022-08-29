@@ -16,7 +16,7 @@
       year: 2018
       description:
         - Specialized in Signal Processing and Machine Learning.
-    - title: B.S. in Electrical Engineering
+    - title: B.E. in Electrical Engineering
       institution: Xi'an Jiaotong University
       year: 2016
 
@@ -43,9 +43,9 @@
         - Proposed a new type of valid inequality, called projection cuts, for Benders decomposition
           to significantly reduce the Benders feasibility cuts and accelerate computation.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Honorable mention in the 2022 INFORMS Optimization Society’s Student Paper Prize.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items:
+#         - Honorable mention in the 2022 INFORMS Optimization Society’s Student Paper Prize.
