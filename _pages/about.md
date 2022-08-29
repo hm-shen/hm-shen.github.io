@@ -27,7 +27,7 @@ Jiang](https://sites.google.com/site/ruiweijianguf/). My research focuses on
 
 I obtained my master's degree from the [Electrical and Computer
 Engineering](https://ece.engin.umich.edu/) department at the University of
-Michigan. I received my bachelor's degree in Electrical Engineering from [Xi'an
+Michigan and received my bachelor's degree in Electrical Engineering from [Xi'an
 Jiaotong University](http://en.xjtu.edu.cn/).
 
 My email is hmshen-at-umich.edu
