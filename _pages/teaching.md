@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching
+description: # Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 5
 ---
 
-### IOE 310: Intro to Optimization Methods, Fall 2020, Winter 2020
+## Courses 
+- Winter 2020 and Fall 2020: Introduction to Optimization Methods (IOE 310)
+  - Taught two lectures on [Python](https://www.python.org/) programming and [Pyomo](http://www.pyomo.org/).
+  - Designed weekly written assignments and Python programming problems.
+  - Held weekly office hours.
+  
+- Fall 2019: Nonlinear Programming (IOE 610)
+  - Designed a detailed rubric for homework problems.
+  - Held weekly office hours.
 
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!

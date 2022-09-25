@@ -11,3 +11,4 @@ Gemfile.lock
 vendor
 .el
 .auctex-auto/
+preview.sh
