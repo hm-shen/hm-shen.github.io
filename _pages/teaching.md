@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ## Courses 
+
 - Winter 2020 and Fall 2020: Introduction to Optimization Methods (IOE 310)
   - Taught two lectures on [Python](https://www.python.org/) programming and [Pyomo](http://www.pyomo.org/).
   - Designed weekly written assignments and Python programming problems.
