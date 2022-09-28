@@ -12,7 +12,7 @@ nav_order: 6
 I have served as a graduate student instructor for the following courses:
 
 - IOE 310 Introduction to Optimization Methods (Winter 2020 and Fall 2020)
-  - Taught two lectures on [Python](https://www.python.org/) programming and [Pyomo](http://www.pyomo.org/).
+  - Gave two lectures on [Python](https://www.python.org/) programming and [Pyomo](http://www.pyomo.org/).
   - Designed weekly written assignments and Python programming problems.
   - Held weekly office hours.
   
