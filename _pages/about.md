@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a fifth year Ph.D. student in the [Industrial and Operations
 Engineering](https://ioe.engin.umich.edu/) department at the University of
-Michigan and I am very fortunate to be advised by Prof. [Ruiwei
+Michigan and I am very fortunate to be advised by Dr. [Ruiwei
 Jiang](https://sites.google.com/site/ruiweijianguf/). My research focuses on
 **stochastic optimization** and **integer programming** with applications in
 **power and transportation systems**. 
