@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: capitalized_about
 title: about
 permalink: /
 subtitle: 1891 IOE Building, 1205 Beal Ave, Ann Arbor, MI, 48109
