@@ -11,11 +11,14 @@ nav_order: 6
 
 - IOE 310 Introduction to Optimization Methods (Winter 2020 and Fall 2020)
   - Gave two lectures on [Python](https://www.python.org/) programming and [Pyomo](http://www.pyomo.org/).
+  - Added a machine learning module to the course.
   - Designed weekly written assignments and Python programming problems.
+  - Made detailed walkthrough videos for all programming assignments.
   - Held weekly office hours.
   
 - IOE 611 Nonlinear Programming (Fall 2019)
   - Designed a detailed rubric for homework problems.
+  - Wrote an autograder for one of the programming assignments.
   - Held weekly office hours.
   
 - IOE 691 Stochastic and Robust Optimization (Winter 2021)
