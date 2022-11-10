@@ -23,7 +23,7 @@ Engineering](https://ioe.engin.umich.edu/) department at the University of
 Michigan and I am very fortunate to be advised by Dr. [Ruiwei
 Jiang](https://sites.google.com/site/ruiweijianguf/). My research focuses on
 **stochastic optimization** and **integer programming** with applications in
-**power and transportation systems**. 
+**robotics, power grid, and transportation systems**. 
 
 I obtained my master's degree from the [Electrical and Computer
 Engineering](https://ece.engin.umich.edu/) department at the University of
