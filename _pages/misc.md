@@ -35,6 +35,7 @@ nav_order: 6
 ### Services
 
 - Editorial Service
+  - Mathematical Programming.
   - Journal of Global Optimization.
   - Energy Systems.
 
