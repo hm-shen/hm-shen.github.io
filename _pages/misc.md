@@ -35,9 +35,9 @@ nav_order: 6
 ### Services
 
 - Editorial Service
-  - Mathematical Programming.
-  - Manufacturing and Service Operations Management.
-  - Journal of Global Optimization.
+  - Mathematical Programming (MP).
+  - Manufacturing and Service Operations Management (MSOM).
+  - Journal of Global Optimization (JOGO).
   - Energy Systems.
 
 - Departmental Service
