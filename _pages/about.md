@@ -30,4 +30,6 @@ Engineering](https://ece.engin.umich.edu/) department at the University of
 Michigan and received my bachelor's degree in Electrical Engineering from [Xi'an
 Jiaotong University](http://en.xjtu.edu.cn/).
 
-My email is hmshen-at-umich.edu
+**Email**: hmshen [at] umich [dot] edu
+
+[Curriculum Vitae (pdf)](./assets/pdf/cv_hmshen.pdf)
