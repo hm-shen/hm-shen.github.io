@@ -38,6 +38,7 @@ nav_order: 6
   - Mathematical Programming (MP).
   - Manufacturing and Service Operations Management (MSOM).
   - Journal of Global Optimization (JOGO).
+  - IEEE Conference on Decision and Control (CDC).
   - Energy Systems.
 
 - Departmental Service
