@@ -2,7 +2,7 @@
 layout: capitalized_about
 title: about
 permalink: /
-subtitle: 1891 IOE Building, 1205 Beal Ave, Ann Arbor, MI, 48109
+subtitle: 4177 Bell Engineering Center, 800 W Dickson St., Fayetteville, AR, 72703
 
 profile:
   align: right
@@ -13,23 +13,16 @@ profile:
     # <p>1205, Beal Ave,</p>
     # <p>Beal Ave, Ann Arbor, MI, 48109</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fifth year Ph.D. student in the [Industrial and Operations
-Engineering](https://ioe.engin.umich.edu/) department at the University of
-Michigan and I am very fortunate to be advised by Dr. [Ruiwei
-Jiang](https://sites.google.com/site/ruiweijianguf/). My research focuses on
-**stochastic optimization** and **integer programming** with applications in
-**robotics, power grid, and transportation systems**. 
+I am an Assistant Professor in the Department of [Industrial Engineering](https://industrial-engineering.uark.edu/) at the University of Arkansas. I earned my Ph.D. in the Department of Industrial and Operations Engineering at the University of Michigan, under the guidance of Dr. [Ruiwei Jiang](https://sites.google.com/site/ruiweijianguf/). My research focuses on **stochastic optimization** and **integer programming** with applications in
+**power grid, and transportation systems**. 
 
-I obtained my master's degree from the [Electrical and Computer
-Engineering](https://ece.engin.umich.edu/) department at the University of
-Michigan and received my bachelor's degree in Electrical Engineering from [Xi'an
-Jiaotong University](http://en.xjtu.edu.cn/).
+In addition, I hold master degrees in [Electrical and Computer Engineering](https://ece.engin.umich.edu/) and [Mathematics](https://lsa.umich.edu/math) from the University of Michigan and received my bachelor's degree in Electrical Engineering from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
-**Email**: hmshen [at] umich [dot] edu
+**Email**: haomings [at] uark [dot] edu
 
-[Curriculum Vitae (pdf)](./assets/pdf/cv_hmshen.pdf)
+[//]: # [Curriculum Vitae (pdf)](./assets/pdf/cv_hmshen.pdf)
