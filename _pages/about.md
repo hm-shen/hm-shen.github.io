@@ -27,9 +27,4 @@ In addition, I hold master degrees in [Electrical and Computer Engineering](http
 
 [//]: # [Curriculum Vitae (pdf)](./assets/pdf/cv_hmshen.pdf)
 
-**I am actively seeking motivated and talented students to join my research group. If you are interested in any of the following areas, please do not hesitate to contact me.**
-- Stochastic and Robust Optimization
-- Data Science
-- Power System Operations
-
 
